@@ -1,4 +1,3 @@
-# Project-SmartContactManager
 # Smart Contact Manager
 
 A full-featured **Contact Management Web Application** built with **Java**, **Spring Boot**, **Spring Security**, **MySQL**, and **JavaScript**. This application allows users to efficiently manage their personal and professional contacts with a modern UI and secure backend.
